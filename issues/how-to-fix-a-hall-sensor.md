@@ -1,5 +1,7 @@
-# Issue Title: how to fix a hall sensor
+### Issue Details
 
-### Description:
+**Title:** How to fix a hall sensor  
 
-Please provide details or steps on how to troubleshoot and fix hall sensors in brushless motors.
+**Created on:** 2026-02-27 12:21:39 UTC
+
+Please provide more information if needed.
